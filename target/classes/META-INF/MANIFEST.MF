@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: stream-function-rabbit
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: olegz
+Implementation-Vendor-Id: org.springframework.cloud.stream.function
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/stream-function-rabbit
+Created-By: Maven Integration for Eclipse
+
